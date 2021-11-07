@@ -6,7 +6,7 @@
 <h4><a href="https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/oxygen/3a/eclipse-java-oxygen-3a-linux-gtk-x86_64.tar.gz">Click Here For Linux</a></h4>
 
 ## Download JAVA For Windows
-<h4><a href="https://www.oracle.com/java/technologies/downloads/#license-lightbox">From Here</a></h4>
+<h4><a href="https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html#license-lightbox">From Here</a></h4>
 </br>
 
 ## Learn JAVA From Android 
